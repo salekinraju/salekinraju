@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **salekinraju/salekinraju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-Hi, I am Md. Sirajus Salekin Raju.<br>🔭 I’m currently working on improving my skills to get a job as SQA Engineer.<br>👯 I’m looking to collaborate on Manual Testing, API Testing, Performance Testing, and Web automation. <br>🌱 I’m currently learning Web Automation using Selenium with Java. <br>💬 Ask me about Software Testing.<br>⚡ Fun fact: I love Gardening.<br>📫 How to reach me: salekinraju@gmail.com<br>
+Hi 👋, I'm Md. Sirajus Salekin Raju.<br>🔭 I’m currently working on improving my skills to get a job as SQA Engineer.<br>👯 I’m looking to collaborate on Manual Testing, API Testing, Performance Testing, and Web automation. <br>🌱 I’m currently learning Web Automation using Selenium with Java. <br>💬 Ask me about Software Testing.<br>⚡ Fun fact: I love Gardening.<br>📫 How to reach me: salekinraju@gmail.com<br>
 
 
 ## 🌐 Socials:
