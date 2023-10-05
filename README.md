@@ -36,13 +36,3 @@ Hi 👋, I'm Md. Sirajus Salekin Raju.<br>🔭 I’m currently working on improv
 [![](https://visitcount.itsvg.in/api?id=salekinraju&icon=0&color=9)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=salekinraju&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=salekinraju&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=salekinraju&icon=0&color=9)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
